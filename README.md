@@ -11,8 +11,6 @@
 
 [Demo](#-características-destacadas) • [Tecnologías](#-stack-tecnológico) • [Instalación](#-instalación-y-configuración) • [Arquitectura](#-arquitectura-del-proyecto)
 
-<img src="https://img.shields.io/github/languages/code-size/tu-usuario/TPV?style=flat-square" alt="Code Size">
-<img src="https://img.shields.io/github/commit-activity/m/tu-usuario/TPV?style=flat-square" alt="Commits">
 
 </div>
 
