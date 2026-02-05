@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>target\TPV.jar</jar>
+  <outfile>TPV.exe</outfile>
+  <errTitle>TPV - Error</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>https://www.java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <singleInstance>
+    <mutexName></mutexName>
+    <windowTitle></windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>17.0.0_0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>onlyJdk</jdkPreference>
+    <runtimeBits>64</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0.0</txtFileVersion>
+    <fileDescription>Sistema TPV (Terminal Punto de Venta)</fileDescription>
+    <copyright>2025</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0</txtProductVersion>
+    <productName>TPV</productName>
+    <companyName></companyName>
+    <internalName>TPV</internalName>
+    <originalFilename>TPV.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>SPANISH</language>
+  </versionInfo>
+  <messages>
+    <startupErr>Ocurrió un error al iniciar la aplicación.</startupErr>
+    <bundledJreErr>Esta aplicación requiere Java Runtime Environment para ejecutarse.</bundledJreErr>
+    <jreVersionErr>Esta aplicación requiere Java 17 o superior. Descárgalo en java.com</jreVersionErr>
+    <launcherErr>El lanzador encontró un error, contacte al desarrollador.</launcherErr>
+    <instanceAlreadyExistsMsg>Ya hay una instancia de la aplicación ejecutándose.</instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>

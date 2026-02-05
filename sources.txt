@@ -1,0 +1,10 @@
+src/main/java/com/mycompany/tpv/Panel.java
+src/main/java/com/mycompany/tpv/categoriaxml.java
+src/main/java/com/mycompany/tpv/Main.java
+src/main/java/com/mycompany/tpv/FormularioProducto.java
+src/main/java/com/mycompany/tpv/formulario.java
+src/main/java/com/mycompany/tpv/ErrorCategoria.java
+src/main/java/com/mycompany/tpv/productoxml.java
+src/main/java/componentes/PanelCategoria.java
+src/main/java/componentes/Producto.java
+src/main/java/componentes/Categoria.java
